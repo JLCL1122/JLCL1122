@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Jorge
 
-<!--
-**JLCL1122/JLCL1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python and building automation projects step by step.
 
-Here are some ideas to get you started:
+## 🚀 What I'm focusing on
+- Python automation
+- AI agents (beginner)
+- Chatbots (WhatsApp / Telegram)
+- Practical projects for real-world use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Invoice XML analyzer (Python) ← coming soon
+
+## 📚 Learning path
+- Python fundamentals
+- Automation scripts
+- APIs & bots
+- AI agents
+
+📍 Mexico
